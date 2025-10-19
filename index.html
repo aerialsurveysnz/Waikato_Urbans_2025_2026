@@ -66,18 +66,7 @@
         id: 'PCentre1',
         type: 'circle',
         source: 'ProjectCentre1',
-        paint: {
-				'circle-radius': [
-                                'interpolate',
-                                ['exponential', 1.10],
-                                ['zoom'],
-                                0,
-                                0.5,
-                                19,
-                                15
-                                ],
-                    'circle-color': 'white'
-            }
+        paint: {'circle-color': 'white'}
       });
   // 🔹 Helper: always opens progress.html for hard-coded projectRef
   function openProgressPopup({ coordinates, descriptionHTML}) {
@@ -145,8 +134,8 @@
   });
 
   // 🔹 Cursor feedback
-  map.on('mouseenter', 'PCentre4', () => { map.getCanvas().style.cursor = 'pointer'; });
-  map.on('mouseleave', 'PCentre4', () => { map.getCanvas().style.cursor = ''; });
+  map.on('mouseenter', 'PCentre1', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'PCentre1', () => { map.getCanvas().style.cursor = ''; });
 });
 
     map.on('load', function () {
@@ -259,8 +248,8 @@
   });
 
   // 🔹 Cursor feedback
-  map.on('mouseenter', 'PCentre4', () => { map.getCanvas().style.cursor = 'pointer'; });
-  map.on('mouseleave', 'PCentre4', () => { map.getCanvas().style.cursor = ''; });
+  map.on('mouseenter', 'PCentre2', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'PCentre2', () => { map.getCanvas().style.cursor = ''; });
 });
 
     map.on('load', function () {
@@ -373,8 +362,8 @@
   });
 
   // 🔹 Cursor feedback
-  map.on('mouseenter', 'PCentre4', () => { map.getCanvas().style.cursor = 'pointer'; });
-  map.on('mouseleave', 'PCentre4', () => { map.getCanvas().style.cursor = ''; });
+  map.on('mouseenter', 'PCentre3', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'PCentre3', () => { map.getCanvas().style.cursor = ''; });
 });
 
     map.on('load', function () {
