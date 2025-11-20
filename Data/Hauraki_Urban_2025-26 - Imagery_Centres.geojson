@@ -15,7 +15,7 @@
                 "Project": "PGRM",
                 "Proj_Name": "Hauraki_Urban_2025-26",
                 "Survey_Typ": "Imagery",
-                "OrthoGSD_m": "10"
+                "OrthoGSD_m": "12.5"
             },
             "geometry": {
                 "type": "Point",

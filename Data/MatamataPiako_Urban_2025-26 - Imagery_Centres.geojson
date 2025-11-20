@@ -15,7 +15,7 @@
                 "Project": "PGRM",
                 "Proj_Name": "MatamataPiako_Urban_2025-26",
                 "Survey_Typ": "Imagery",
-                "OrthoGSD_m": "10.0"
+                "OrthoGSD_m": "7.5"
             },
             "geometry": {
                 "type": "Point",

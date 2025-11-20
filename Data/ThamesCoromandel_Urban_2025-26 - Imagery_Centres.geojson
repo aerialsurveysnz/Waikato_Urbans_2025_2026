@@ -1,9 +1,29 @@
 {
-"type": "FeatureCollection",
-"name": "ThamesCoromandel_Urban_2025-26 - Imagery_Centres",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"xy_coordinate_resolution": 1e-15,
-"features": [
-{ "type": "Feature", "properties": { "Project": "PGRM", "Proj_Name": "ThamesCoromandel_Urban_2025-26", "Survey_Typ": "Imagery", "OrthoGSD_m": 10.0 }, "geometry": { "type": "Point", "coordinates": [ 175.657573880944426, -36.918574718636236 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "ThamesCoromandel_Urban_2025-26 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "xy_coordinate_resolution": 1e-15,
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "PGRM",
+                "Proj_Name": "ThamesCoromandel_Urban_2025-26",
+                "Survey_Typ": "Imagery",
+                "OrthoGSD_m": 10.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.657573880944426,
+                    -36.918574718636236
+                ]
+            }
+        }
+    ]
 }
