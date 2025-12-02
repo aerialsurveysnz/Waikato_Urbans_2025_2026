@@ -12,7 +12,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Project": "PGRM",
+                "Project": "PGRM3309",
                 "Proj_Name": "Waikato Urban Imagery 2025-26",
                 "Survey_Typ": "Imagery",
                 "OrthoGSD_m": 7.5

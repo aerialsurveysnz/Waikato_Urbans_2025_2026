@@ -12,7 +12,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Project": "PGRM",
+                "Project": "PGRM3307",
                 "Proj_Name": "Otorohanga Urban Imagery 2025-26",
                 "Survey_Typ": "Imagery",
                 "OrthoGSD_m": "12.5"

@@ -12,7 +12,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Project": "PGRM",
+                "Project": "PGRM3308",
                 "Proj_Name": "Waitomo Urban Imagery 2025-26",
                 "Survey_Typ": "Imagery",
                 "OrthoGSD_m": 12.5

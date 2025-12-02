@@ -12,7 +12,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Project": "PGRM",
+                "Project": "PGRM3306",
                 "Proj_Name": "Hauraki Urban Imagery 2025-26",
                 "Survey_Typ": "Imagery",
                 "OrthoGSD_m": "12.5"
