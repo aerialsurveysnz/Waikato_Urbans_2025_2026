@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "Hauraki_Urban_2025-26 - Captured_Area",
+    "name": "Hauraki_Urban_2025-26 - Project_Area",
     "crs": {
         "type": "name",
         "properties": {
@@ -12,14 +12,8 @@
         {
             "type": "Feature",
             "properties": {
-                "index_tile": "BC36_1000_0309",
-                "sheet_code": "BC36",
-                "scale": 1000,
-                "tile": "0309",
-                "layer": "Dissolved",
-                "path": "MultiPolygonM?crs=EPSG:2193&field=index_tile:string(15,0)&field=sheet_code:string(4,0)&field=scale:integer(9,0)&field=tile:string(4,0)&uid={e9b8e46d-aa0f-4270-aa34-1a77d9c9d9b6}",
-                "Area": 0,
-                "Percentage_Coverage": 0.0,
+                "Area": 212.08317435693621,
+                "Percentage_Coverage": 100.0,
                 "Project": "PGRM"
             },
             "geometry": {
